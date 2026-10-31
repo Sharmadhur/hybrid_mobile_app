@@ -1,0 +1,53 @@
+:root {
+  --ion-font-family: 'Avenir Next', Avenir, 'Segoe UI', sans-serif;
+  --ion-color-primary: #216452;
+  --ion-color-primary-rgb: 33, 100, 82;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #1d5848;
+  --ion-color-primary-tint: #377461;
+  --ion-background-color: #f5f7f1;
+  --ion-text-color: #20352f;
+  --ion-toolbar-background: #f5f7f1;
+  --ion-tab-bar-background: #fbfcf9;
+  --ion-item-background: transparent;
+  --surface: #ffffff;
+  --surface-soft: #edf1e9;
+  --ink: #20352f;
+  --muted: #78827b;
+  --line: #e3e8df;
+  --forest: #1c4d40;
+  --forest-deep: #173c34;
+  --lime: #d7ed9f;
+  --coral: #e78d76;
+  --scale-low: #d5a28a;
+  --scale-healthy: #84aa78;
+  --scale-high: #e0b961;
+  --scale-very-high: #d58c78;
+}
+
+html.dark {
+  --ion-background-color: #182722;
+  --ion-text-color: #e7eee6;
+  --ion-toolbar-background: #182722;
+  --ion-tab-bar-background: #1d2e27;
+  --ion-color-primary: #a7cf9f;
+  --ion-color-primary-rgb: 167, 207, 159;
+  --ion-color-primary-contrast: #182722;
+  --ion-color-primary-contrast-rgb: 24, 39, 34;
+  --ion-color-primary-shade: #93b68c;
+  --ion-color-primary-tint: #b0d4a9;
+  --surface: #22342d;
+  --surface-soft: #293d34;
+  --ink: #e7eee6;
+  --muted: #a0b0a5;
+  --line: #33463d;
+  --forest: #203a31;
+  --forest-deep: #142a23;
+  --lime: #d7ed9f;
+  --coral: #e78d76;
+  --scale-low: #c88d72;
+  --scale-healthy: #82a976;
+  --scale-high: #d5af59;
+  --scale-very-high: #cf806b;
+}
